@@ -1,3 +1,5 @@
+!!! This repository is not longer maintained. I switched from Bloonix to Zabbix.
+
 # Bloonix-Install.sh
 
 Bloonix-Install.sh is a simple bash script to install the free and open-source monitoring-software [Bloonix](https://bloonix.org/) on Debian-based systems.
