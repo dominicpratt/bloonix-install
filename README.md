@@ -1,4 +1,4 @@
-!!! This repository is not longer maintained. I switched from Bloonix to Zabbix.
+> This repository is not longer maintained. I switched from Bloonix to Zabbix.
 
 # Bloonix-Install.sh
 
